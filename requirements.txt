@@ -1,0 +1,16 @@
+## Use python 3.9
+
+torch
+torchvision
+torchaudio
+torchtext
+datasets
+tokenizers
+torchmetrics
+tensorboard
+altair
+wandb
+transformers
+bertviz
+IPython
+streamlit
