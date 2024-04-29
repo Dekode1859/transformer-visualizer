@@ -97,3 +97,5 @@ The `attention_visual.py` script is for visualizing the attention from the model
 The web application deployed on Hugging Face Spaces allows users to input English sentences and visualize the attention mechanism in the Transformer model for English to Italian translation. It provides an interactive way to understand how the model translates sentences by visualizing Self-Attention for the Encoder and Decoder and Cross-Attention between the Encoder and Decoder.
 
 [Click here to access the web application](https://dekode-transformer-visualizer.hf.space)
+
+![Web App](image_2024-04-29_135932712.png)
